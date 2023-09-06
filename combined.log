@@ -1,0 +1,255 @@
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T17:35:40.620Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T17:35:40.652Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T17:43:01.944Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T17:43:01.982Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T17:44:45.711Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T17:44:45.745Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T17:45:15.899Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T17:45:15.942Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T17:48:14.582Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T17:48:14.611Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T17:49:08.471Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T17:49:08.497Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T17:53:01.281Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T17:53:01.314Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T17:53:52.126Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T17:53:52.153Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T17:54:50.018Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T17:54:50.053Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T17:55:46.516Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T17:55:46.564Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T17:56:05.481Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T17:56:05.515Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T17:56:25.457Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T17:56:25.486Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:07:00.492Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:07:00.535Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:08:18.745Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:08:18.791Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:09:31.006Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:09:31.042Z"}
+{"errors":[],"level":"info","message":"validationReponse","success":true,"timestamp":"2023-09-06T18:09:33.828Z"}
+{"errors":[],"level":"info","message":"validationReponse","success":true,"timestamp":"2023-09-06T18:09:44.093Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:15:22.764Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:15:22.911Z"}
+{"errors":[],"level":"info","message":"validationReponse","success":true,"timestamp":"2023-09-06T18:15:28.206Z"}
+{"errors":[],"level":"info","message":"validationReponse","success":true,"timestamp":"2023-09-06T18:15:35.583Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:16:15.324Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:16:15.352Z"}
+{"errors":[],"level":"info","message":"validationReponse","success":true,"timestamp":"2023-09-06T18:16:18.143Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:16:25.817Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:16:25.845Z"}
+{"errors":[],"level":"info","message":"validationReponse","success":true,"timestamp":"2023-09-06T18:16:28.091Z"}
+{"errors":[],"level":"info","message":"validationReponse","success":true,"timestamp":"2023-09-06T18:16:37.313Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:16:53.656Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:16:53.732Z"}
+{"errors":[],"level":"info","message":"validationReponse","success":true,"timestamp":"2023-09-06T18:16:55.889Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:17:13.024Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:17:13.051Z"}
+{"errors":[],"level":"info","message":"validationReponse","success":true,"timestamp":"2023-09-06T18:17:15.926Z"}
+{"errors":[],"level":"info","message":"validationReponse","success":true,"timestamp":"2023-09-06T18:17:20.312Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:18:33.621Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:18:33.651Z"}
+{"errors":[],"level":"info","message":"validationReponse","success":true,"timestamp":"2023-09-06T18:18:36.193Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:20:59.215Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:20:59.285Z"}
+{"errors":[],"level":"info","message":"validationReponse","success":true,"timestamp":"2023-09-06T18:21:01.518Z"}
+{"errors":[],"level":"info","message":"validationReponse","success":true,"timestamp":"2023-09-06T18:21:06.232Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:36:49.463Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:36:49.493Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:44:44.013Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:44:44.047Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:46:47.144Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:46:47.189Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:47:05.118Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:47:05.279Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:49:52.145Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:49:52.172Z"}
+{"level":"info","message":"Internal Server Error","timestamp":"2023-09-06T18:49:55.045Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:50:28.428Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:50:28.456Z"}
+{"level":"info","message":"Internal Server Error","timestamp":"2023-09-06T18:50:32.005Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:51:12.013Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:51:12.046Z"}
+{"level":"info","message":"Internal Server Error","timestamp":"2023-09-06T18:51:14.368Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:51:38.077Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:51:38.110Z"}
+{"level":"info","message":"Invalid Refresh Token","timestamp":"2023-09-06T18:51:40.204Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:52:10.747Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:52:10.774Z"}
+{"level":"info","message":"Invalid Refresh Token","timestamp":"2023-09-06T18:52:13.117Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:53:39.667Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:53:39.699Z"}
+{"level":"info","message":"Internal Server Error","timestamp":"2023-09-06T18:53:41.823Z"}
+{"level":"info","message":"Invalid Refresh Token","timestamp":"2023-09-06T18:53:41.825Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:54:13.749Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:54:13.780Z"}
+{"level":"info","message":"Internal Server Error","timestamp":"2023-09-06T18:54:15.450Z"}
+{"level":"info","message":"Invalid Refresh Token","timestamp":"2023-09-06T18:54:15.453Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:55:17.246Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:55:17.288Z"}
+{"level":"info","message":"Internal Server Error","timestamp":"2023-09-06T18:55:19.130Z"}
+{"level":"info","message":"Invalid Refresh Token","timestamp":"2023-09-06T18:55:19.131Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T18:57:10.901Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T18:57:10.927Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:00:03.811Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:00:03.842Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:00:35.106Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:00:35.135Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:00:56.091Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:00:56.132Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:01:45.694Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:01:45.726Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:03:08.560Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:03:08.587Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:04:42.630Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:04:42.659Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:06:42.008Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:06:42.047Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:24:52.732Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:24:52.752Z"}
+{"level":"info","message":"refresh token api called ..","timestamp":"2023-09-06T19:25:05.220Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:25:30.722Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:25:30.739Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:25:48.631Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:25:48.649Z"}
+{"level":"info","message":"refresh token api called ..","timestamp":"2023-09-06T19:25:50.647Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:26:34.338Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:26:34.354Z"}
+{"level":"info","message":"refresh token api called ..","timestamp":"2023-09-06T19:26:42.480Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:27:34.803Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:27:34.823Z"}
+{"level":"info","message":"refresh token api called ..","timestamp":"2023-09-06T19:27:37.405Z"}
+{"level":"info","message":"Internal Server Error","timestamp":"2023-09-06T19:27:37.415Z"}
+{"level":"info","timestamp":"2023-09-06T19:27:37.416Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:28:32.709Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:28:32.725Z"}
+{"level":"info","message":"refresh token api called ..","timestamp":"2023-09-06T19:28:35.316Z"}
+{"level":"info","message":"Internal Server Error","timestamp":"2023-09-06T19:28:35.326Z"}
+{"level":"info","timestamp":"2023-09-06T19:28:35.326Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:29:13.694Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:29:13.711Z"}
+{"level":"info","message":"refresh token api called ..","timestamp":"2023-09-06T19:29:16.130Z"}
+{"level":"info","message":"Internal Server Error","timestamp":"2023-09-06T19:29:16.137Z"}
+{"level":"error","timestamp":"2023-09-06T19:29:16.137Z"}
+{"level":"info","message":"refresh token api called ..","timestamp":"2023-09-06T19:29:27.689Z"}
+{"level":"error","message":"validation failed error","timestamp":"2023-09-06T19:29:27.693Z"}
+{"level":"info","message":"Internal Server Error","timestamp":"2023-09-06T19:29:27.693Z"}
+{"level":"error","timestamp":"2023-09-06T19:29:27.693Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:29:43.322Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:29:43.340Z"}
+{"level":"info","message":"refresh token api called ..","timestamp":"2023-09-06T19:29:45.377Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:30:09.027Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:30:09.044Z"}
+{"level":"info","message":"refresh token api called ..","timestamp":"2023-09-06T19:30:12.790Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:30:25.362Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:30:25.378Z"}
+{"level":"info","message":"refresh token api called ..","timestamp":"2023-09-06T19:30:27.161Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:31:28.692Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:31:28.710Z"}
+{"level":"info","message":"refresh token API called...","timestamp":"2023-09-06T19:31:30.701Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:32:27.080Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:32:27.096Z"}
+{"level":"info","message":"refresh token API called...","timestamp":"2023-09-06T19:32:28.900Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:34:00.970Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:34:00.987Z"}
+{"level":"info","message":"login api called ..","timestamp":"2023-09-06T19:34:02.986Z"}
+{"level":"info","message":"incorrect password","timestamp":"2023-09-06T19:34:03.063Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:34:25.362Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:34:25.379Z"}
+{"level":"info","message":"login api called ..","timestamp":"2023-09-06T19:34:30.019Z"}
+{"level":"info","message":"incorrect password","timestamp":"2023-09-06T19:34:30.097Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:35:44.812Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:35:44.833Z"}
+{"level":"info","message":"login api called ..","timestamp":"2023-09-06T19:35:47.123Z"}
+{"level":"info","message":"incorrect password","timestamp":"2023-09-06T19:35:47.195Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:36:07.434Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:36:07.453Z"}
+{"level":"info","message":"login api called ..","timestamp":"2023-09-06T19:36:09.409Z"}
+{"level":"info","message":"incorrect password","timestamp":"2023-09-06T19:36:09.485Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:37:47.134Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:37:47.152Z"}
+{"level":"info","message":"login api called ..","timestamp":"2023-09-06T19:37:49.409Z"}
+{"level":"info","message":"incorrect password","timestamp":"2023-09-06T19:37:49.486Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:38:01.867Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:38:01.883Z"}
+{"level":"info","message":"login api called ..","timestamp":"2023-09-06T19:38:03.690Z"}
+{"level":"info","message":"incorrect password","timestamp":"2023-09-06T19:38:03.763Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:39:32.032Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:39:32.048Z"}
+{"level":"info","message":"login api called ..","timestamp":"2023-09-06T19:39:34.596Z"}
+{"level":"info","message":"incorrect password","timestamp":"2023-09-06T19:39:34.680Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:40:02.588Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:40:02.608Z"}
+{"level":"info","message":"login api called ..","timestamp":"2023-09-06T19:40:04.921Z"}
+{"level":"info","message":"incorrect password","timestamp":"2023-09-06T19:40:05.001Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-09-06T19:40:05.002Z"}
+{"level":"error","timestamp":"2023-09-06T19:40:05.003Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:40:36.011Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:40:36.029Z"}
+{"level":"info","message":"login api called ..","timestamp":"2023-09-06T19:40:38.062Z"}
+{"level":"info","message":"incorrect password","timestamp":"2023-09-06T19:40:38.138Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-09-06T19:40:38.140Z"}
+{"level":"error","timestamp":"2023-09-06T19:40:38.141Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:42:03.437Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:42:03.455Z"}
+{"level":"info","message":"login api called ..","timestamp":"2023-09-06T19:42:05.568Z"}
+{"level":"info","message":"incorrect password","timestamp":"2023-09-06T19:42:05.642Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-09-06T19:42:05.644Z"}
+{"level":"error","timestamp":"2023-09-06T19:42:05.645Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T19:44:05.776Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T19:44:05.792Z"}
+{"level":"info","message":"login api called ..","timestamp":"2023-09-06T19:44:07.556Z"}
+{"level":"info","message":"incorrect password","timestamp":"2023-09-06T19:44:07.631Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T20:01:16.805Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T20:01:16.832Z"}
+{"level":"info","message":"login api called ..","timestamp":"2023-09-06T20:01:19.681Z"}
+{"level":"info","message":"incorrect password","timestamp":"2023-09-06T20:01:19.831Z"}
+{"level":"info","message":"listUsers API called ..","timestamp":"2023-09-06T20:02:23.956Z"}
+{"level":"info","message":"listUsers API called ..","timestamp":"2023-09-06T20:03:24.929Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T20:04:43.720Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T20:04:43.747Z"}
+{"level":"info","message":"listUsers API called ..","timestamp":"2023-09-06T20:04:45.397Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T20:05:01.973Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T20:05:02.000Z"}
+{"level":"info","message":"listUsers API called ..","timestamp":"2023-09-06T20:05:03.931Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T20:05:42.943Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T20:05:42.981Z"}
+{"level":"info","message":"listUsers API called ..","timestamp":"2023-09-06T20:05:44.924Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T20:21:44.052Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T20:21:44.112Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T20:22:53.316Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T20:22:53.358Z"}
+{"level":"info","message":"login api called ..","timestamp":"2023-09-06T20:24:04.537Z"}
+{"level":"info","message":"incorrect password","timestamp":"2023-09-06T20:24:04.716Z"}
+{"level":"info","message":"login api called ..","timestamp":"2023-09-06T20:24:09.275Z"}
+{"level":"error","message":"Internal Server Error Class constructor ObjectId cannot be invoked without 'new'","stack":"TypeError: Class constructor ObjectId cannot be invoked without 'new'\n    at Object.calculateUserAge (C:\\Users\\abc\\OneDrive\\Desktop\\projects\\user-managment apis(task)\\libs\\userLibs.js:9:29)\n    at calculateAge (C:\\Users\\abc\\OneDrive\\Desktop\\projects\\user-managment apis(task)\\controllers\\userController.js:46:36)\n    at Layer.handle [as handle_request] (C:\\Users\\abc\\OneDrive\\Desktop\\projects\\user-managment apis(task)\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\abc\\OneDrive\\Desktop\\projects\\user-managment apis(task)\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at C:\\Users\\abc\\OneDrive\\Desktop\\projects\\user-managment apis(task)\\middleware\\authMiddleware.js:18:7\n    at C:\\Users\\abc\\OneDrive\\Desktop\\projects\\user-managment apis(task)\\node_modules\\jsonwebtoken\\verify.js:261:12\n    at getSecret (C:\\Users\\abc\\OneDrive\\Desktop\\projects\\user-managment apis(task)\\node_modules\\jsonwebtoken\\verify.js:97:14)\n    at module.exports [as verify] (C:\\Users\\abc\\OneDrive\\Desktop\\projects\\user-managment apis(task)\\node_modules\\jsonwebtoken\\verify.js:101:10)\n    at module.exports (C:\\Users\\abc\\OneDrive\\Desktop\\projects\\user-managment apis(task)\\middleware\\authMiddleware.js:12:9)\n    at Layer.handle [as handle_request] (C:\\Users\\abc\\OneDrive\\Desktop\\projects\\user-managment apis(task)\\node_modules\\express\\lib\\router\\layer.js:95:5)","timestamp":"2023-09-06T20:24:21.831Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T20:27:33.053Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T20:27:33.088Z"}
+{"level":"info","message":"User not found","timestamp":"2023-09-06T20:27:36.962Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T20:28:09.073Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T20:28:09.100Z"}
+{"level":"info","message":"User not found","timestamp":"2023-09-06T20:28:13.054Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T20:28:48.262Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T20:28:48.293Z"}
+{"level":"info","message":"User not found","timestamp":"2023-09-06T20:28:50.295Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T20:29:34.437Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T20:29:34.464Z"}
+{"level":"error","message":"Internal Server Error Class constructor ObjectId cannot be invoked without 'new'","stack":"TypeError: Class constructor ObjectId cannot be invoked without 'new'\n    at Object.calculateUserAge (C:\\Users\\abc\\OneDrive\\Desktop\\projects\\user-managment apis(task)\\libs\\userLibs.js:14:31)\n    at calculateAge (C:\\Users\\abc\\OneDrive\\Desktop\\projects\\user-managment apis(task)\\controllers\\userController.js:47:36)\n    at Layer.handle [as handle_request] (C:\\Users\\abc\\OneDrive\\Desktop\\projects\\user-managment apis(task)\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\abc\\OneDrive\\Desktop\\projects\\user-managment apis(task)\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at C:\\Users\\abc\\OneDrive\\Desktop\\projects\\user-managment apis(task)\\middleware\\authMiddleware.js:18:7\n    at C:\\Users\\abc\\OneDrive\\Desktop\\projects\\user-managment apis(task)\\node_modules\\jsonwebtoken\\verify.js:261:12\n    at getSecret (C:\\Users\\abc\\OneDrive\\Desktop\\projects\\user-managment apis(task)\\node_modules\\jsonwebtoken\\verify.js:97:14)\n    at module.exports [as verify] (C:\\Users\\abc\\OneDrive\\Desktop\\projects\\user-managment apis(task)\\node_modules\\jsonwebtoken\\verify.js:101:10)\n    at module.exports (C:\\Users\\abc\\OneDrive\\Desktop\\projects\\user-managment apis(task)\\middleware\\authMiddleware.js:12:9)\n    at Layer.handle [as handle_request] (C:\\Users\\abc\\OneDrive\\Desktop\\projects\\user-managment apis(task)\\node_modules\\express\\lib\\router\\layer.js:95:5)","timestamp":"2023-09-06T20:29:37.192Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T20:30:57.900Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T20:30:57.934Z"}
+{"level":"info","message":"Age calculated successfully","timestamp":"2023-09-06T20:31:00.050Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T20:31:37.604Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T20:31:37.636Z"}
+{"level":"info","message":"Age calculated successfully","timestamp":"2023-09-06T20:31:39.640Z"}
+{"level":"info","message":"Register api called ..","timestamp":"2023-09-06T20:32:11.632Z"}
+{"level":"info","message":"validation failed error","timestamp":"2023-09-06T20:32:11.639Z"}
+{"level":"info","message":"Register api called ..","timestamp":"2023-09-06T20:32:22.139Z"}
+{"level":"info","message":"email already registered error","timestamp":"2023-09-06T20:32:22.159Z"}
+{"level":"info","message":"Register api called ..","timestamp":"2023-09-06T20:32:29.139Z"}
+{"level":"info","message":"login api called ..","timestamp":"2023-09-06T20:32:46.273Z"}
+{"level":"info","message":"Age calculated successfully","timestamp":"2023-09-06T20:33:01.800Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2023-09-06T20:43:12.710Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2023-09-06T20:43:12.752Z"}
+{"level":"info","message":"listUsers API called ..","timestamp":"2023-09-06T20:43:15.042Z"}
+{"level":"info","message":"Age calculated successfully","timestamp":"2023-09-06T20:43:20.034Z"}
